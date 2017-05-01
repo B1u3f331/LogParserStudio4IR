@@ -1,0 +1,1 @@
+#LogParserStudio4IR
